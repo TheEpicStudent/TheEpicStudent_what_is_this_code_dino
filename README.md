@@ -4375,3 +4375,7 @@ harshithap2000-dai_deprivation"
 "Yeehaw Dino"
 
 ![](shr_dino.png)
+
+"TheEpicStudent_what_is_this_code_dino"
+
+![](TheEpicStudent_what_is_this_code_dino.png)
